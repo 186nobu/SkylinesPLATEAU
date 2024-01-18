@@ -1,6 +1,12 @@
-# 機材等の準備、注意点
+# Cities: Skylines起動前の準備作業
 
-# 1. PCの準備
+------
+
+
+
+## 1. 機材等の準備、注意点
+
+### 1.1 PCの準備
 
 推奨スペックの条件を満たすPC、環境を準備する。
 
@@ -11,12 +17,12 @@ SkylinesPLATEAUを使用したゲーム環境の推奨スペック（動作確�
 - インターネット接続環境
 - Steamアプリがオンラインモード
 
-![](../resources/userMan/1-1-1.png)
-Steamアプリ画面（オンラインモード場合、雲のアイコンが表示）
-<BR>
-<BR>
+<img src="../resources/userMan/1-1-1-1.png" style="zoom:80%;" />
 
-# 2. Steamアカウントの作成とSteamアプリのインストール
+<br>
+<br>
+
+### 1.2 Steamアカウントの作成とSteamアプリのインストール
 
 初めてSteamを利用する場合はアカウント作成とログインを行い、Steamアプリをインストールする。
 
@@ -26,34 +32,45 @@ https://store.steampowered.com/join/
 ② Steamアプリをインストールする。
 https://store.steampowered.com/about/
 
-![](../resources/userMan/1-1-2.png)
-アカウント作成画面
-<BR>
-<BR>
 
-# 3. Cities: Skylinesの購入とインストール
+
+<img src="../resources/userMan/1-1-1-2.png" style="zoom:80%;" />
+
+<br>
+<br>
+
+### 1.3 Cities: Skylinesの購入とインストール
 
 初めてCities: Skylinesを利用する場合はPC版Cities: Skylinesの購入とインストールを行う。 
 
-① Steamウェブサイト＞ストアからCities: Skylinesを購入する。https://store.steampowered.com/app/255710/Cities_Skylines/
+① Steamウェブサイト＞ストアからCities: Skylinesを購入する。
+　　https://store.steampowered.com/app/255710/Cities_Skylines/
 
 ② Steamアプリ＞ライブラリ画面左欄の「Cities: Skylines」をクリック。
 
 ③ 「インストール」ボタンをクリックしてインストールを実行する。（インストール時の設定は特に理由がない場合は初期値のままとする）
 
-![](../resources/userMan/1-3-1.png)
-Steamウェブサイト、購入画面とSteamアプリ画面
-<BR>
-<BR>
 
-# 4. 注意点
+
+<img src="../resources/userMan/1-1-3-1.png" style="zoom:90%;" />
+
+<br>
+<br>
+
+### 1.4 注意点
 
 - 3D都市モデルの整備時期、整備内容により、インポート時の精度が低下する可能性があります。
+
 - アプリアップデートにより、マップエディタやゲームを開く際にMOD、アセットに関するエラーが表示されることがありますが、通常は「OK」ボタンで操作を実行してください。ゲームの動作に支障をきたす場合は、表示された内容を確認しMOD、アセットのサブスクライブ解除等の措置を実施してください。
+
 - 既存MODの設定の上書き操作が含まれます。必要に応じて事前にバックアップを行ってください。
+
 - Cities: Skylinesのインストール時、初回起動はローカルファイル生成のため、時間がかかることがあります。
+
 - 企業や学校等のプロキシ環境でログイン、アプリの更新が行えない場合はネットワーク管理者の方にご相談ください。
 
+  
 
-![](../resources/userMan/1-4-1.png)
-エラー表示例
+<img src="../resources/userMan/1-1-4-1.png" style="zoom: 80%;" />
+
+<br><br>
