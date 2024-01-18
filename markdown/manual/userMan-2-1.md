@@ -1,8 +1,6 @@
-# Cities: Skylinesの起動と起動後の準備作業
+## 1. Cities: Skylinesの起動と設定
 
 ------
-
-## 1. Cities: Skylinesの起動と設定
 
 ### 1.1 Paradoxランチャーの起動
 

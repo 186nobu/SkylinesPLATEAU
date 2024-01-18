@@ -75,16 +75,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "manual/userMan-1-4.md",
-      "output": {
-        ".html": {
-          "relative_path": "manual/userMan-1-4.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "manual/userMan-1.md",
       "output": {
         ".html": {
@@ -129,6 +119,16 @@
       "output": {
         ".html": {
           "relative_path": "manual/userMan-2-4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/userMan-2-5.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/userMan-2-5.html"
         }
       },
       "version": ""

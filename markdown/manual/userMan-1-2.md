@@ -1,8 +1,6 @@
-------
-
-
-
 ## 2.  事前準備
+
+------
 
 ### 2.1 3D都市モデルのダウンロード
 
@@ -24,7 +22,6 @@
  https://github.com/Project-PLATEAU/UC22-010-SkylinesPLATEAU/blob/main/SampleData/08234_hokota-shi_2020_citygml_4_op_sample_area.zip をダウンロードする。
 
 <br>
-<br>
 
 ### 2.2 SkylinesPLATEAU及び、必須MOD・アセットの導入
 
@@ -43,7 +40,7 @@ Cities: SkylinesではMODによるUIの日本語化と高速道路（対向2車�
 <br>
 <br>
 
-#### (参考)　サブスクリプションの解除
+### 3.2参考資料（サブスクリプションの一括解除）
 
 既にサブスクライブ済のMOD同士の干渉回避が必要な場合やコレクション「SkylinesPLATEAU_必須MOD、アセット」を更新する必要がある場合には、サブスクリプションをすべて解除後、必要なMOD、アセットのサブスクライブを行う。
 
