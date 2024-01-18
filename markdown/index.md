@@ -14,4 +14,8 @@ PLATEAUの3D都市モデルを都市育成シミュレーションゲーム"Citi
 markdown フォルダ内の .md 画像を変更する
 変更後、docfx build markdown\docfx.jsonを実行し、htmlファイルを生成する
 
+以下を実行してローカルで確認可
+docfx markdown\docfx.json --serve
+
+
 -->
