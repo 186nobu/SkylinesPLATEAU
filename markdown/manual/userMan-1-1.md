@@ -13,7 +13,7 @@ SkylinesPLATEAUを使用したゲーム環境の推奨スペック（動作確�
 - インターネット接続環境
 - Steamアプリがオンラインモード
 
-<img src="../resources/userMan/1-1-1-1.png" style="zoom:80%;" />
+<br><img src="../resources/userMan/1-1-1-1.png" style="zoom: 80%;" />
 
 <br>
 <br>
@@ -28,9 +28,7 @@ https://store.steampowered.com/join/
 ② Steamアプリをインストールする。
 https://store.steampowered.com/about/
 
-
-
-<img src="../resources/userMan/1-1-1-2.png" style="zoom:80%;" />
+<br><img src="../resources/userMan/1-1-1-2.png" style="zoom: 80%;" />
 
 <br>
 <br>
@@ -46,9 +44,7 @@ https://store.steampowered.com/about/
 
 ③ 「インストール」ボタンをクリックしてインストールを実行する。（インストール時の設定は特に理由がない場合は初期値のままとする）
 
-
-
-<img src="../resources/userMan/1-1-3-1.png" style="zoom:90%;" />
+<br><img src="../resources/userMan/1-1-3-1.png" style="zoom:90%;" />
 
 <br>
 <br>
@@ -65,8 +61,7 @@ https://store.steampowered.com/about/
 
 - 企業や学校等のプロキシ環境でログイン、アプリの更新が行えない場合はネットワーク管理者の方にご相談ください。
 
-  
+<br><img src="../resources/userMan/1-1-4-1.png" style="zoom: 80%;" />
 
-<img src="../resources/userMan/1-1-4-1.png" style="zoom: 80%;" />
-
-<br><br>
+<br>
+<br>

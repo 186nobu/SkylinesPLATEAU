@@ -6,15 +6,17 @@
 
 ① 3D都市モデルの読込みを行うエリアの中心座標をGoogleマップ（※1）や地理院地図（※2）で確認、コピーする。
 
+<br><img src="../resources/userMan/1-3-1.png" style="zoom: 33%;" />
 
-
-<img src="../resources/userMan/1-3-1.png" style="zoom: 33%;" />
+<br>
+<br>
 
 ※1 https://www.google.com/maps?authuser=0
 
 ※2 http://maps.gsi.go.jp/
 
-
+<br>
+<br>
 
 
 

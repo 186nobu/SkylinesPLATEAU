@@ -12,15 +12,15 @@
 
 ③ CityGMLのページで「ダウンロード」ボタンをクリックし、ファイルをダウンロード、Zipファイルを展開する（保存場所はどこでもよい）。
 
+<br><img src="../resources/userMan/1-2-1-1.png" style="zoom: 22%;" />
 
-
-<img src="../resources/userMan/1-2-1-1.png" style="zoom: 22%;" />
-
-
+<br>
+<br>
 
 ※1　サンプルデータ（茨城県鉾田市の3D都市モデルの一部データ）を使用する場合は
  https://github.com/Project-PLATEAU/UC22-010-SkylinesPLATEAU/blob/main/SampleData/08234_hokota-shi_2020_citygml_4_op_sample_area.zip をダウンロードする。
 
+<br>
 <br>
 
 ### 2.2 SkylinesPLATEAU及び、必須MOD・アセットの導入
@@ -33,14 +33,12 @@ Cities: SkylinesではMODによるUIの日本語化と高速道路（対向2車�
 
 ② 「+全てをサブスクライブ」ボタンをクリック。
 
-
-
-<img src="../resources/userMan/1-2-2-1.png" style="zoom: 50%;" />
+<br><img src="../resources/userMan/1-2-2-1.png" style="zoom: 50%;" />
 
 <br>
 <br>
 
-### 3.2参考資料（サブスクリプションの一括解除）
+### (参考)　サブスクリプションの解除
 
 既にサブスクライブ済のMOD同士の干渉回避が必要な場合やコレクション「SkylinesPLATEAU_必須MOD、アセット」を更新する必要がある場合には、サブスクリプションをすべて解除後、必要なMOD、アセットのサブスクライブを行う。
 
@@ -50,9 +48,8 @@ Cities: SkylinesではMODによるUIの日本語化と高速道路（対向2車�
 
 ③ 「サブスクリプションをすべて解除」をクリック。
 
+<br><img src="../resources/userMan/1-2-2-2.png" style="zoom:23%;" />
 
-
-<img src="../resources/userMan/1-2-2-2.png" style="zoom:25%;" />
-
-<br><br>
+<br>
+<br>
 

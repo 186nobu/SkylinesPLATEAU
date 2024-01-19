@@ -11,9 +11,9 @@ Cities: Skylinesの起動のため、「Paradoxランチャー」を起動する
 - デスクトップのショートカット、または
 - Windowsのスタートメニュー＞Steam＞Cities Skylinesを選択
 
+<br><img src="../resources/userMan/2-1-1-1.png" style="zoom: 25%;" />
 
-
-<img src="../resources/userMan/2-1-1-1.png" style="zoom: 25%;" />
+<br><br>
 
 【方法2　Steamアプリから起動】
 
@@ -21,12 +21,9 @@ Cities: Skylinesの起動のため、「Paradoxランチャー」を起動する
 
 ② 「▶プレイ」ボタンをクリック。
 
+<br><img src="../resources/userMan/2-1-1-2.png" style="zoom:22.5%;" />
 
-
-<img src="../resources/userMan/2-1-1-2.png" style="zoom:25%;" />
-
-<br>
-<br>
+<br><br>
 
 ### 1.2 Cities: Skylinesの起動
 
@@ -37,12 +34,9 @@ ParadoxランチャーからCities: Skylinesを起動する。
 ② ランチャー画面右上の言語選択で「日本語」を選択。（他言語が表示されている場合のみ）
 「プレイ」ボタンをクリック。
 
+<br><img src="../resources/userMan/2-1-2-1.png" style="zoom: 23%;" />
 
-
-<img src="../resources/userMan/2-1-2-1.png" style="zoom: 25%;" />
-
-<br>
-<br>
+<br><br>
 
 ### 1.3 UIの日本語化
 
@@ -54,9 +48,7 @@ ParadoxランチャーからCities: Skylinesを起動する。
 
 ※選択欄に「日本語（JAPANESE）」が表示されない場合は、MODの有効化後にCities: Skylinesを再起動し上記の操作を行う。
 
-
-
-<img src="../resources/userMan/2-1-3-1.png" style="zoom: 25%;" />
+<br><img src="../resources/userMan/2-1-3-1.png" style="zoom: 25%;" />
 
 <br><br>
 

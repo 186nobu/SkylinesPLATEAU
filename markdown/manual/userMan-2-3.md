@@ -8,12 +8,9 @@
 
 ②ウィンドウ左側の「SkylinesPlateau」を選択する。（各種設定方法は次ページ）
 
-  
+<br><img src="../resources/userMan/2-3-1.png" style="zoom: 25%;" />
 
-<img src="../resources/userMan/2-3-1.png" style="zoom: 25%;" />
-  
-  <br>
-  <br>
+<br><br>
 
 ### 3.2 3D都市モデルフォルダの選択
 
@@ -21,12 +18,9 @@
 
 ②「フォルダを選択してください」ウィンドウで、対象都市のCityGMLフォルダ（Zipファイルを展開済みのもの）を参照し、選択する（※2） 。
 
-  
+<br><img src="../resources/userMan/2-3-2.png" style="zoom: 30%;" />
 
-<img src="../resources/userMan/2-3-2.png" style="zoom: 30%;" />
-
-  <br>
-  <br>
+<br><br>
 
 ### 3.3 中心座標入力、座標系番号選択
 
@@ -34,21 +28,18 @@
 
 ※3　[「1.4. 中心座標の確認」](userMan-1-3.md)の項を参照。　（サンプルデータを使用時は 36.152800,140.520300 を入力)
 
-  
+<br><img src="../resources/userMan/2-3-3.png" style="zoom: 33%;" />
 
-<img src="../resources/userMan/2-3-3.png" style="zoom: 33%;" />
-
-  <br>
-  <br>
+<br><br>
 
 ### 3.3 その他項目の入力
 
 海面高さ等の変更を行う場合は各種設定項目に任意の数値を入力する。
 
-<img src="../resources/userMan/2-3-4.png" style="zoom: 33%;" />
+<br><img src="../resources/userMan/2-3-4.png" style="zoom: 33%;" />
 
 <br><br>
 
-<img src="../resources/userMan/2-4-1.png" style="zoom: 25%;" />
+<br><img src="../resources/userMan/2-4-1.png" style="zoom: 25%;" />
 
-  <br><br>
+<br><br>
