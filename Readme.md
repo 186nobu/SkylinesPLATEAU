@@ -1,5 +1,5 @@
 # Cities: Skylines PLATEAU Mod
-![top画像](Docs/resources/img/top_intro.jpg) 
+![](resources/index2.jpg)
 
 ### 1.概要
 PLATEAUの3D都市モデルを都市育成シミュレーションゲーム"Cities:Skylines"にインポートするMOD（SkylinesPLATEAU）です。
