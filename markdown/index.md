@@ -1,6 +1,5 @@
 # Cities: Skylines PLATEAU Mod
 
-更新の確認20240117 1833
 
 PLATEAUの3D都市モデルを都市育成シミュレーションゲーム"Cities: Skylines"にインポートするMOD（SkylinesPLATEAU）です。
 
@@ -8,7 +7,6 @@ PLATEAUの3D都市モデルを都市育成シミュレーションゲーム"Citi
 
 ![](resources/index2.jpg)
 
-![](resources/index1.jpg) 
 <!-- 
 markdown フォルダ内の .md 画像を変更する
 変更後、docfx build markdown\docfx.jsonを実行し、htmlファイルを生成する
