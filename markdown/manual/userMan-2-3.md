@@ -1,45 +1,23 @@
-## 3. 3D都市モデル読み込み時の各種設定
+## 3. 中心座標の確認
 
 ------
 
-### 3.1 設定ウィンドウの表示
+3D都市モデルをインポートする際に必要な読込み位置の中心座標を確認し、値をコピーする。
 
-①メインメニューで「オプション」をクリックし、設定ウィンドウを表示する。
+① 3D都市モデルの読込みを行うエリアの中心座標をPLATEAU VIEW （※1）やGoogleマップ（※2）、地理院地図（※3）で
 
-②ウィンドウ左側の「SkylinesPlateau」を選択する。（各種設定方法は次ページ）
+　確認、コピーする。
 
-<br><img src="../resources/userMan/2-3-1.png" style="zoom: 25%;" />
+![](../resources/userMan/2024-01-24_16h42_00.jpg)
 
-<br><br>
+<br>
 
-### 3.2 3D都市モデルフォルダの選択
+※1 [PLATEAU VIEW 2.0 (mlit.go.jp)](https://plateauview.mlit.go.jp/)
 
-①3D都市モデルフォルダ項目の右側にある、ファイルマークを選択する。
+※2 https://www.google.com/maps?authuser=0
 
-②「フォルダを選択してください」ウィンドウで、対象都市のCityGMLフォルダ（Zipファイルを展開済みのもの）を参照し、選択する（※2） 。
+※3 http://maps.gsi.go.jp/
 
-<br><img src="../resources/userMan/2-3-2.png" style="zoom: 30%;" />
+<br>
+<br>
 
-<br><br>
-
-### 3.3 中心座標入力、座標系番号選択
-
-対象エリアの中心座標（※3）を緯度経度カンマ区切り（小数点以下6桁）で入力、読み込みを行うエリアが属する都道府県から座標系系番号を選択する。
-
-※3　[「1.4. 中心座標の確認」](userMan-1-3.md)の項を参照。　（サンプルデータを使用時は 36.152800,140.520300 を入力)
-
-<br><img src="../resources/userMan/2-3-3.png" style="zoom: 33%;" />
-
-<br><br>
-
-### 3.3 その他項目の入力
-
-海面高さ等の変更を行う場合は各種設定項目に任意の数値を入力する。
-
-<br><img src="../resources/userMan/2-3-4.png" style="zoom: 33%;" />
-
-<br><br>
-
-<br><img src="../resources/userMan/2-4-1.png" style="zoom: 25%;" />
-
-<br><br>

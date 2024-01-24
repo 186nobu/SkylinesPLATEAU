@@ -1,31 +1,22 @@
-## 2. MOD、アセットの有効化
+## 2. 3D都市モデルのダウンロード
 
 ------
 
-### 2.1 サブスクライブしたMOD、アセットと標準MODの有効化
+ゲーム上に再現したい都市の3D都市モデルをダウンロード（※1）し、任意（デスクトップ等）の場所に保存する。 
 
-① メインメニューで「コンテンツマネージャー」を選択し、コンテマネージャーを起動する。
+① G空間情報センター3D都市モデル（Project PLATEAU）ポータルサイト（https://www.geospatial.jp/ckan/dataset/plateau）をブラウザで開く。
 
-<br><img src="../resources/userMan/2-2-1.png" style="zoom: 33%;" />
+② リンクから任意の都市のデータセットページに進み、データ欄の「CityGML」をクリック。
 
-<br><br>
+③ CityGMLのページで「ダウンロード」ボタンをクリックし、ファイルをダウンロード、Zipファイルを展開する（保存場所はどこでもよい）。
 
-② コンテンツマネージャー画面左側の「カテゴリー」欄で「MOD」を選択する。
-
-③ 「オン/オフ」ボタンをクリックしてハードモードを除く、全てのMODを有効化する。
- （オンの状態とする）
-
-<br><img src="../resources/userMan/2-2-2.png" style="zoom: 25%;" />
-
-<br><br>
-
-④ コンテンツマネージャー画面左側の「カテゴリー」欄で「アセット」を選択する。
-
-⑤ 「National Road」を有効化する。
+<br><img src="../resources/userMan/1-2-1-1.png" style="zoom: 22%;" />
 
 <br>
+<br>
 
-### 2.2 参考資料（有効化するMOD、アセット一覧）
+※1　サンプルデータ（茨城県鉾田市の3D都市モデルの一部データ）を使用する場合は
+ https://github.com/Project-PLATEAU/UC22-010-SkylinesPLATEAU/blob/main/SampleData/08234_hokota-shi_2020_citygml_4_op_sample_area.zip をダウンロードする。
 
-<br><img src="../resources/userMan/2-4-2.png" style="zoom: 25%;" />
-<br><br>
+<br>
+<br>
