@@ -6,8 +6,12 @@
 
 ① 3D都市モデルの読込みを行うエリアの中心座標をPLATEAU VIEW （※1）やGoogleマップ（※2）、地理院地図（※3）で確認、コピーする。
 
-![](../resources/userMan/2024-01-24_16h42_00.jpg)
+<br><img src="../resources/userMan/1-3-0.png" style="zoom: 55%;" />
 
+<br>
+<br><br><img src="../resources/userMan/1-3-1.png" style="zoom: 25%;" />
+
+<br>
 <br>
 
 ※1 [PLATEAU VIEW 2.0 (mlit.go.jp)](https://plateauview.mlit.go.jp/)

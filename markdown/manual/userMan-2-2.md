@@ -4,7 +4,7 @@
 
 ゲーム上に再現したい都市の3D都市モデルをダウンロード（※1）し、任意（デスクトップ等）の場所に保存する。 
 
-① G空間情報センター3D都市モデル（Project PLATEAU）ポータルサイト（https://www.geospatial.jp/ckan/dataset/plateau）をブラウザで開く。
+① G空間情報センター3D都市モデル（Project PLATEAU）ポータルサイト ( https://www.geospatial.jp/ckan/dataset/plateau ）をブラウザで開く。
 
 ② リンクから任意の都市のデータセットページに進み、データ欄の「CityGML」をクリック。
 
