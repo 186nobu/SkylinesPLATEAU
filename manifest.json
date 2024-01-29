@@ -155,6 +155,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "manual/userMan-3-1.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/userMan-3-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "manual/userMan-aboutModel.md",
       "output": {
         ".html": {
@@ -629,6 +639,36 @@
       "output": {
         "resource": {
           "relative_path": "resources/userMan/2024-01-24_16h42_00.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/2024-01-29_22h14_18.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/2024-01-29_22h14_18.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/2024-01-29_22h15_28.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/2024-01-29_22h15_28.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/2024-01-29_22h15_38.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/2024-01-29_22h15_38.jpg"
         }
       },
       "version": ""
