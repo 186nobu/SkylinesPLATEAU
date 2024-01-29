@@ -77,20 +77,24 @@
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
 
-<h2 id="3-地物の読込み">3. 地物の読込み</h2>
+<h2 id="オプション本modのビルド方法">（オプション）本Modのビルド方法</h2>
 <hr>
-<p>インフラ施設の配置が完了したゲームデータに3D都市モデルのデータから地物の読み込みを行う。</p>
-<p>※この項から操作を始める場合は、インフラ施設の配置が完了したゲームデータ（※5）をサブスクライブ、有効化して使用する。
-※5　URL： <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2960907055%E3%80%81%E3%80%80%E9%83%BD%E5%B8%82%E5%90%8D%EF%BC%9APLATEAU_UC_Game">https://steamcommunity.com/sharedfiles/filedetails/?id=2960907055、　都市名：PLATEAU_UC_Game</a></p>
-<p>①ゲーム画面上の「地物読込」ボタンから「地物読込」ダイアログを起動する。</p>
-<p>②読み込みを行う地物を選択する。オプション画面で入力した設定値を確認し、インポートボタンを選択する。</p>
-<p>（インポートには時間を要する場合あり）</p>
-<p><br><img src="../resources/userMan/3-3-1.png" style="zoom: 23%;"></p>
-<p><br><br></p>
-<p>③ 地物を読み込むことで生じる水際の地形変化により、浸水するエリアが発生することがあるため、</p>
-<p>「再開/一時停止」ツールで時間を進め、水位が安定した時点で時間の進行を止める。</p>
-<p><br><img src="../resources/userMan/3-3-2.png" style="zoom: 25%;"></p>
-<p><br><br></p>
+<h3 id="1-ビルドに必要なツール">1. ビルドに必要なツール</h3>
+<p>Microsoft Visual Studio　(以下、Visual Studioと略。 開発時は Visual Studio Professional 2022 を使用 )</p>
+<h3 id="2-ビルド手順">2. ビルド手順</h3>
+<p>① ソースファイルをダウンロードし、展開（解凍）します。</p>
+<p> ソースファイルは<a href="https://****">こちら</a>からダウンロード可能です。</p>
+<br>
+<p>② SkylinesPLATEAU-mainフォルダに保存されているソリューションファイル（SkylinesPlateau.sln）をVisual Studioで開きます。</p>
+<p><img src="../resources/userMan/2024-01-29_22h14_18.jpg" alt=""></p>
+<br>
+<p>③ソリューション構成を【Release】に、ソリューションプラットフォームを【Any CPU】に設定します。</p>
+<p><img src="../resources/userMan/2024-01-29_22h15_28.jpg" alt=""></p>
+<br>
+<p>④ [ビルド]メニュー＞[ソリューションのビルド]を選択し、ソリューション全体をビルドします。</p>
+<p><img src="../resources/userMan/2024-01-29_22h15_38.jpg" alt=""></p>
+<br>
+<p>⑤ ビルドが正常に終了すると、SkylinesPlateau\bin\ReleaseフォルダにMODファイルが生成されます。(本MODの動作に必要なライブラリも同じフォルダにコピーされます。）</p>
 
 </article>
           </div>
