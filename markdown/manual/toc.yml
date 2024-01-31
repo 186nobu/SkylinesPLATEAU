@@ -1,4 +1,4 @@
-- name: Cities:Skylines PLATEAU Mod
+- name: 'Cities: Skylines PLATEAU Mod'
   href: ../index.md
 
 
@@ -8,9 +8,9 @@
 #    href: devMan.md
 
 
-- name: Cities:Skylinesおよび本Modのインストール
+- name: 'Cities: Skylinesおよび本Modのインストール'
   items:
-  - name: 1. Cities:Skylinesのインストール
+  - name: '1. Cities: Skylinesのインストール'
     href: userMan-1-1.md
   - name: 2. SkylinesPLATEAUの導入
     href: userMan-1-2.md
@@ -28,7 +28,7 @@
   - name: 3. 中心座標の確認
     href: userMan-2-3.md
 
-  - name: 4. Cities:Skylinesの起動と設定
+  - name: '4. Cities: Skylinesの起動と設定'
     href: userMan-2-4.md
 
   - name: 5. 3D都市モデル読み込み時の各種設定
