@@ -1,9 +1,11 @@
 - name: Cities:Skylines PLATEAU Mod
   href: ../index.md
-- name: 利用を開始する
-  items:
-  - name: 環境構築手順書
-    href: devMan.md
+
+
+#- name: 利用を開始する
+# items:
+#  - name: 環境構築手順書
+#    href: devMan.md
 
 
 - name: Cities:Skylinesおよび本Modのインストール
@@ -49,6 +51,7 @@
 
 
 - name: オプション
+# href: userMan-3-0.md
   items:
   - name: 本Modのビルド方法
     href: userMan-3-0.md
