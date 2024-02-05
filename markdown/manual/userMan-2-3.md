@@ -41,7 +41,7 @@
 
     - 3D都市モデルの有無、モデル化された建物の分布を確認しながら探索できる
 
-<img src="../resources/userMan/2-3-1-1.jpg" style="width:100"/>
+<img src="../resources/userMan/2-3-1-1.jpg" style="width:100" style="border: solid 1px #777777"/>
 <br>
 <br>
 
@@ -55,8 +55,7 @@
 
     - 住所、地名、施設名、カテゴリ等で検索可能
 
-<img src="../resources/userMan/2-3-1-2.jpg" style="width:100"/>
-<br>
+<img src="../resources/userMan/2-3-1-2.jpg" style="width:100" style="border: solid 1px #777777"/>
 <br>
 
 ##### ※3 地理院地図　(http://maps.gsi.go.jp/)
@@ -69,4 +68,4 @@
 
     - 住所、地名、施設名等で検索可能  
 
-<img src="../resources/userMan/2-3-1-3.jpg" style="width:100"/>
+<img src="../resources/userMan/2-3-1-3.jpg" style="width:100" style="border: solid 1px #777777"/>
