@@ -14,9 +14,11 @@ Cities: SkylinesではMODによるUIの日本語化と高速道路（対向2車�
 
 #### ※正式リリースまでは [β版](https://steamcommunity.com/sharedfiles/filedetails/?id=3040941129) を別途サブスクライブする
 
-<br><img src="../resources/userMan/1-2-2-1.png" style="zoom: 50%;" />
-
-
+<!--
+「+全てをサブスクライブ」ボタン<br>  -->
+<img src="../resources/userMan/1-2-1-1.jpg" style="width:500px" />
+<br>
+<br>
 必須MOD・アセットの内容
 
 |コレクション上の表示名	|内容|
@@ -34,12 +36,21 @@ Japanese Localization Mod <br> (日本語化MOD)	|UIを日本語化するため�
 
 ① Steamサイト、Steamアプリ上部のユーザー名をクリックし、その後表示される「コンテンツ」をクリック。
 
+
+<img src="../resources/userMan/1-2-2-1.jpg" style="width:500px" />
+<br>
+<br>
+<br>
+
 ② ワークショップタブから右下の「サブスクライブ中のアイテム」をクリック。
+
+
+<img src="../resources/userMan/1-2-2-2.jpg" style="width:500px" />
+<br>
+<br>
+<br>
 
 ③ 「サブスクリプションをすべて解除」をクリック。
 
-<br><img src="../resources/userMan/1-2-2-2.png" style="zoom:23%;" />
 
-<br>
-<br>
-
+<img src="../resources/userMan/1-2-2-3.jpg" style="zoom: 100%;" />
