@@ -19,6 +19,7 @@
 
 <br>
 <br>
+<br>
 
 ※1 [PLATEAU VIEW 2.0 (mlit.go.jp)](https://plateauview.mlit.go.jp/)
 
@@ -28,8 +29,8 @@
 
 <br>
 <br>
+<br>
 
--->
 
 ##### ※1 PLATEAU VIEW　(https://plateauview.mlit.go.jp/)
 
@@ -42,6 +43,7 @@
     - 3D都市モデルの有無、モデル化された建物の分布を確認しながら探索できる
 
 <img src="../resources/userMan/2-3-1-1.jpg" style="width:100" style="border: solid 1px #777777"/>
+<br>
 <br>
 <br>
 

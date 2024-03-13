@@ -31,6 +31,7 @@ https://store.steampowered.com/join/
 <img src="../resources/userMan/1-1-2.jpg" style="zoom:100%;" />
 <br>
 <br>
+<br>
 
 ② Steamアプリをインストールする。
 https://store.steampowered.com/about/
@@ -51,6 +52,7 @@ Steamウェブサイト、購入画面<br> -->
 
 <br>
 <br>
+<br>
 
 ② Steamアプリ＞ライブラリ画面左欄の「Cities: Skylines」をクリック。
 
@@ -61,7 +63,7 @@ Steamアプリ（ライブラリ）画面、インストールボタン<br>  -->
 <img src="../resources/userMan/1-1-3-2.jpg" style="width:500px" />
 
 <br>
-
+<br>
 
 ### 1.4 注意点
 
