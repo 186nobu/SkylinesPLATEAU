@@ -26,7 +26,7 @@
 <br>
 
 ※1　サンプルデータ（茨城県鉾田市の3D都市モデルの一部データ）を使用する場合は
- https://github.com/Project-PLATEAU/UC22-010-SkylinesPLATEAU/blob/main/SampleData/08234_hokota-shi_2020_citygml_4_op_sample_area.zip をダウンロードする。
+https://github.com/Project-PLATEAU/SkylinesPLATEAU/blob/main/SampleData/08234_hokota-shi_2020_citygml_4_op_sample_area.zip をダウンロードする。
 
 <br>
 <br>
