@@ -27,12 +27,12 @@
   "manual/userMan-2-2.html": {
     "href": "manual/userMan-2-2.html",
     "title": "",
-    "keywords": "2. 3D都市モデルのダウンロード ゲーム上に再現したい都市の3D都市モデルをダウンロード（※1）し、任意（デスクトップ等）の場所に保存する。 ① G空間情報センター3D都市モデル（Project PLATEAU）ポータルサイト ( https://www.geospatial.jp/ckan/dataset/plateau ）をブラウザで開く。 ② リンクから任意の都市のデータセットページに進み、データ欄の「CityGML」をクリック。 ③ CityGMLのページで「ダウンロード」ボタンをクリックし、ファイルをダウンロード、Zipファイルを展開する（保存場所はどこでもよい）。 ※1 サンプルデータ（茨城県鉾田市の3D都市モデルの一部データ）を使用する場合は https://github.com/Project-PLATEAU/UC22-010-SkylinesPLATEAU/blob/main/SampleData/08234_hokota-shi_2020_citygml_4_op_sample_area.zip をダウンロードする。"
+    "keywords": "2. 3D都市モデルのダウンロード ゲーム上に再現したい都市の3D都市モデルをダウンロード（※1）し、任意（デスクトップ等）の場所に保存する。 ① G空間情報センター3D都市モデル（Project PLATEAU）ポータルサイト ( https://www.geospatial.jp/ckan/dataset/plateau ）をブラウザで開く。 ② リンクから任意の都市のデータセットページに進み、データ欄の「CityGML」をクリック。 ③ CityGMLのページで「ダウンロード」ボタンをクリックし、ファイルをダウンロード、Zipファイルを展開する（保存場所はどこでもよい）。 ※1 サンプルデータ（茨城県鉾田市の3D都市モデルの一部データ）を使用する場合は https://github.com/Project-PLATEAU/SkylinesPLATEAU/blob/main/SampleData/08234_hokota-shi_2020_citygml_4_op_sample_area.zip をダウンロードする。"
   },
   "manual/userMan-2-3.html": {
     "href": "manual/userMan-2-3.html",
     "title": "",
-    "keywords": "3. 中心座標の確認 3D都市モデルをインポートする際に必要な読込み位置の中心座標を確認し、値をコピーする。 ① 3D都市モデルの読込みを行うエリアの中心座標をPLATEAU VIEW （※1）やGoogleマップ（※2）、地理院地図（※3）で確認、コピーする。 ※1 PLATEAU VIEW (https://plateauview.mlit.go.jp/) 緯度経度の取得方法 マウスカーソルの位置の緯度経度を取得できる （固定されないので、確認時にマウスを動かさないように注意が必要） 特徴 3D都市モデルの有無、モデル化された建物の分布を確認しながら探索できる ※2 Google map (https://www.google.com/maps?authuser=0) 緯度経度の取得方法 クリックした位置の緯度経度を取得できる 特徴 住所、地名、施設名、カテゴリ等で検索可能 ※3 地理院地図 (http://maps.gsi.go.jp/) 緯度経度の取得方法 画面の中心点の緯度経度が取得できる 特徴 住所、地名、施設名等で検索可能"
+    "keywords": "3. 中心座標の確認 3D都市モデルをインポートする際に必要な読込み位置の中心座標を確認し、値をコピーする。 ① 3D都市モデルの読込みを行うエリアの中心座標をPLATEAU VIEW （※1）やGoogleマップ（※2）、地理院地図（※3）で確認、コピーする。"
   },
   "manual/userMan-2-4.html": {
     "href": "manual/userMan-2-4.html",
@@ -57,7 +57,7 @@
   "manual/userMan-2-8.html": {
     "href": "manual/userMan-2-8.html",
     "title": "",
-    "keywords": "8. 地物の読込み インフラ施設の配置が完了したゲームデータに3D都市モデルのデータから地物の読み込みを行う。 ※この項から操作を始める場合は、インフラ施設の配置が完了したゲームデータ（※5）をサブスクライブ、有効化して使用する。 ※5 URL： https://steamcommunity.com/sharedfiles/filedetails/?id=2960907055、 都市名：PLATEAU_UC_Game ①ゲーム画面上の「地物読込」ボタンから「地物読込」ダイアログを起動する。 ②読み込みを行う地物を選択する。オプション画面で入力した設定値を確認し、インポートボタンを選択する。 （インポートには時間を要する場合あり） ③ 地物を読み込むことで生じる水際の地形変化により、浸水するエリアが発生することがあるため、 「再開/一時停止」ツールで時間を進め、水位が安定した時点で時間の進行を止める。"
+    "keywords": "8. 地物の読込み インフラ施設の配置が完了したゲームデータに3D都市モデルのデータから地物の読み込みを行う。 ※この項から操作を始める場合は、インフラ施設の配置が完了したゲームデータ（※5）をサブスクライブ、有効化して使用する。 ※5 URL： https://steamcommunity.com/sharedfiles/filedetails/?id=2960907055 （都市名：PLATEAU_UC_Game） ①ゲーム画面上の「地物読込」ボタンから「地物読込」ダイアログを起動する。 ②読み込みを行う地物を選択する。オプション画面で入力した設定値を確認し、インポートボタンを選択する。 （インポートには時間を要する場合あり） ③ 地物を読み込むことで生じる水際の地形変化により、浸水するエリアが発生することがあるため、 「再開/一時停止」ツールで時間を進め、水位が安定した時点で時間の進行を止める。"
   },
   "manual/userMan-2-9.html": {
     "href": "manual/userMan-2-9.html",
@@ -82,6 +82,6 @@
   "manual/userMan-aboutModel.html": {
     "href": "manual/userMan-aboutModel.html",
     "title": "",
-    "keywords": "1. 利用できる3D都市モデル 本MODでは、3D都市モデル標準製品仕様書（第3.4班）に準拠した3D都市モデルの地形、土地利用、道路、建築物、都市計画決定情報の形状（LOD1）と属性を活用します。 地物 地物型 属性区分 属性名 内容 共通 core:CityModel 空間属性 gml:lowerCorne、gml:upperCorner データ範囲 地形 dem:TINRelief 空間属性 dem:tin/gml:posList 形状 土地利用 luse:LandUse 空間属性 uro:orgLandUse 土地利用用途 道路 tran:Road 空間属性 tran:lod1MultiSurface、gml:posList 形状 主題 tran:function 機能 uro:width 幅員 uro:widthType 幅員区分 建築物 bldg:Building 空間属性 bldg:lod1Solid、gml:posList 形状 主題 bldg:storeysAboveGround 地上階数 bldg:measuredHeight 計測高さ bldg:usage 用途 uro:buildingID 建物ID uro:orgUsage、uro:orgUsage2 詳細用途 gml:name 名称 都市計画決定情報 urf:UrbanPlanningArea 空間属性 urf:lod1MultiSurface、gml:posList 形状 主題 urf:function 用途地域の区分"
+    "keywords": "1. 利用できる3D都市モデル 本MODでは、3D都市モデル標準製品仕様書（第3.4版）に準拠した3D都市モデルの地形、土地利用、道路、建築物、都市計画決定情報の形状（LOD1）と属性を活用します。 地物 地物型 属性区分 属性名 内容 共通 core:CityModel 空間属性 gml:lowerCorne、gml:upperCorner データ範囲 地形 dem:TINRelief 空間属性 dem:tin/gml:posList 形状 土地利用 luse:LandUse 空間属性 uro:orgLandUse 土地利用用途 道路 tran:Road 空間属性 tran:lod1MultiSurface、gml:posList 形状 主題 tran:function 機能 uro:width 幅員 uro:widthType 幅員区分 建築物 bldg:Building 空間属性 bldg:lod1Solid、gml:posList 形状 主題 bldg:storeysAboveGround 地上階数 bldg:measuredHeight 計測高さ bldg:usage 用途 uro:buildingID 建物ID uro:orgUsage、uro:orgUsage2 詳細用途 gml:name 名称 都市計画決定情報 urf:UrbanPlanningArea 空間属性 urf:lod1MultiSurface、gml:posList 形状 主題 urf:function 用途地域の区分"
   }
 }

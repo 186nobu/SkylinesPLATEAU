@@ -9,7 +9,8 @@
 SkylinesPLATEAUを使用したゲーム環境の推奨スペック（動作確認環境）は以下のとおり。
 
 - Windows10　64ビット版
-- CPU intel Core i7-9700以上　 メモリー　32GB以上
+- CPU intel Core i7-9700以上　 
+- メモリー　32GB以上
 - インターネット接続環境
 - Steamアプリがオンラインモード
 

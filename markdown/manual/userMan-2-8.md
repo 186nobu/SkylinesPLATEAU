@@ -6,7 +6,7 @@
 
 ※この項から操作を始める場合は、インフラ施設の配置が完了したゲームデータ（※5）をサブスクライブ、有効化して使用する。
 
- ※5　URL： https://steamcommunity.com/sharedfiles/filedetails/?id=2960907055、　都市名：PLATEAU_UC_Game
+ ※5　URL： https://steamcommunity.com/sharedfiles/filedetails/?id=2960907055 （都市名：PLATEAU_UC_Game）
 
 　①ゲーム画面上の「地物読込」ボタンから「地物読込」ダイアログを起動する。
 
