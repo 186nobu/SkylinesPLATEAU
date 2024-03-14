@@ -45,7 +45,7 @@ ParadoxランチャーからCities: Skylinesを起動してください。
 
 ② ウィンドウ左側の「GAMEPLAY」を選択し、「Language settings」欄で「日本語（JAPANESE）」を選択します。
 
-※選択欄に「日本語（JAPANESE）」が表示されない場合は、MODの有効化後にCities: Skylinesを再起動し、上記の操作を行います。
+※ 選択欄に「日本語（JAPANESE）」が表示されない場合は、MODの有効化後にCities: Skylinesを再起動し、上記の操作を行います。
 
 <br><img src="../resources/userMan/2-1-3-1.png" style="zoom: 25%;" />
 

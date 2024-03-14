@@ -4,9 +4,9 @@
 
 インフラ施設の配置が完了したゲームデータに3D都市モデルのデータから地物の読込みを行ってください。
 
-※この項から操作を始める場合は、インフラ施設の配置が完了したゲームデータ（※1）をサブスクライブし、有効化して使用してください。
+※ この項から操作を始める場合は、インフラ施設の配置が完了したゲームデータ（※1）をサブスクライブし、有効化して使用してください。
 
- ※1　URL： https://steamcommunity.com/sharedfiles/filedetails/?id=2960907055 （都市名：PLATEAU_UC_Game）
+ ※1 URL： https://steamcommunity.com/sharedfiles/filedetails/?id=2960907055 （都市名：PLATEAU_UC_Game）
 
 　① ゲーム画面上の「地物読込」ボタンから「地物読込」ダイアログを起動します。
 
