@@ -10,15 +10,15 @@
  |地形  |dem:TINRelief		 |空間属性  |dem:tin/gml:posList							 |形状 |
  |土地利用  |luse:LandUse  |空間属性  |uro:orgLandUse								 |土地利用用途 |
  |道路  |tran:Road			  |空間属性  |tran:lod1MultiSurface、gml:posList  |形状 |
-  |			 |								|主題		  |tran:function										 |機能 |
+  |			 |								|主題属性		  |tran:function										 |機能 |
   |			 |								|			  |uro:width											|幅員 |
   |			|							|					 |uro:widthType								|幅員区分 |
  |建築物  |bldg:Building  |空間属性	 |bldg:lod1Solid、gml:posList				 |形状 |
-  |			 |							|主題			  |bldg:storeysAboveGround				|地上階数 |
+  |			 |							|主題属性	  |bldg:storeysAboveGround				|地上階数 |
   |			|						 |					 |bldg:measuredHeight						  |計測高さ |
   |			|						 |					 |bldg:usage													 |用途 |
   |			|						 |					 |uro:buildingID										  |建物ID |
   |			|						 |					 |uro:orgUsage、uro:orgUsage2 			|詳細用途 |
   |			|						 |					 |gml:name											  |名称 |
  |都市計画決定情報  |urf:UrbanPlanningArea  |空間属性  |urf:lod1MultiSurface、gml:posList  |形状 |
-  |			|						 |	主題			  |urf:function										 |用途地域の区分 |
+  |			|						 |	主題属性			  |urf:function										 |用途地域の区分 |

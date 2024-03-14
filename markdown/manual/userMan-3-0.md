@@ -1,16 +1,16 @@
-## 本Modのビルド方法
+## 本MODのビルド方法
 
 -------
 
 ### 1. ビルドに必要なツール
 
-Microsoft Visual Studio　(以下、Visual Studioと略。 開発時は Visual Studio Professional 2022 を使用 )
+Microsoft Visual Studio（以下「Visual Studio」という。開発時はVisual Studio Professional 2022を使用します。）
 
 ### 2. ビルド手順
 
 ① ソースファイルをダウンロードし、展開します。
 
-&emsp;ソースファイルは[こちら](https://****)からダウンロード可能です。
+&emsp;ソースファイルは[こちら](https://github.com/Project-PLATEAU/SkylinesPLATEAU)からダウンロード可能です。
 
 <br>
 
@@ -26,10 +26,10 @@ Microsoft Visual Studio　(以下、Visual Studioと略。 開発時は Visual S
 
 <br>
 
-④ [ビルド]メニュー＞[ソリューションのビルド]を選択し、ソリューション全体をビルドします。
+④ 「ビルド」メニュー＞「ソリューションのビルド」を選択し、ソリューション全体をビルドします。
 
 ![](../resources/userMan/2024-01-29_22h15_38.jpg)
 
 <br>
 
-⑤ ビルドが正常に終了すると、SkylinesPlateau\bin\\ReleaseフォルダにMODファイルが生成されます。(本MODの動作に必要なライブラリも同じフォルダにコピーされます。）
+⑤ ビルドが正常に終了すると、SkylinesPlateau\bin\\ReleaseフォルダにMODファイルが生成されます。（本MODの動作に必要なライブラリも同じフォルダにコピーされます。）
