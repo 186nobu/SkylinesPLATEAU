@@ -8,7 +8,7 @@ SkylinesPLATEAU及び必須MOD・アセットを導入するため、Steamのサ
 
 Cities: SkylinesではMODによるUIの日本語化と高速道路（対向2車線）のアセットが必要となります。
 
-① [SkylinesPLATEAU_必須MOD、アセット](https://steamcommunity.com/sharedfiles/filedetails/?id=3108309824)（※URLは今後変更予定）　をブラウザで開きます。
+① [SkylinesPLATEAU_必須MOD、アセット](https://steamcommunity.com/sharedfiles/filedetails/?id=3108309824)（※URLは今後変更予定）をブラウザで開きます。
 
 ② 「+全てをサブスクライブ」ボタンをクリックします。
 
@@ -30,7 +30,7 @@ Japanese Localization Mod <br> (日本語化MOD)	|UIを日本語化するため�
 <br>
 <br>
 
-### (参考)　サブスクリプションの解除
+### （参考）サブスクリプションの解除
 
 既にサブスクライブしているMOD同士の干渉回避が必要な場合やコレクション「SkylinesPLATEAU_必須MOD、アセット」を更新する必要がある場合には、サブスクリプションをすべて解除した後、必要なMOD、アセットのサブスクライブを行ってください。
 

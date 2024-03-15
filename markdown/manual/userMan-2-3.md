@@ -33,7 +33,7 @@
 
 -->
 
-#### ※1 PLATEAU VIEW（ https://plateauview.mlit.go.jp/ )
+##### ※1 PLATEAU VIEW（ https://plateauview.mlit.go.jp/ ）
 
 - 緯度経度の取得方法
 
@@ -48,7 +48,7 @@
 <br>
 <br>
 
-#### ※2 Google map（ https://www.google.com/maps?authuser=0 ）
+##### ※2 Google map（ https://www.google.com/maps?authuser=0 ）
 
 - 緯度経度の取得方法
 
@@ -61,7 +61,7 @@
 <img src="../resources/userMan/2-3-1-2.jpg" style="width:100" style="border: solid 1px #777777"/>
 <br>
 
-#### ※3 地理院地図（ http://maps.gsi.go.jp/ ）
+##### ※3 地理院地図（ http://maps.gsi.go.jp/ ）
 
 - 緯度経度の取得方法
 

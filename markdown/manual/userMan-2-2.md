@@ -4,7 +4,7 @@
 
 ゲーム上に再現したい都市の3D都市モデルをダウンロード（※1）し、任意（デスクトップ等）の場所に保存してください。
 
-① G空間情報センターの3D都市モデル（Project PLATEAU）ポータルサイト ( https://www.geospatial.jp/ckan/dataset/plateau ）をブラウザで開きます。
+① G空間情報センターの3D都市モデル（Project PLATEAU）ポータルサイト（ https://www.geospatial.jp/ckan/dataset/plateau ）をブラウザで開きます。
 
 <img src="../resources/userMan/2-2-1-1.jpg" style="width:500px" />
 <br>
