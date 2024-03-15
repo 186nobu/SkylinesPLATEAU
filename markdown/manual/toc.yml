@@ -20,7 +20,7 @@
 - name: 3D都市モデルのインポート
   items:
   - name: 1. 利用できる3D都市モデル
-    href: userMan-aboutModel.md
+    href: userMan-2-1.md
 
   - name: 2. 3D都市モデルのダウンロード
     href: userMan-2-2.md

@@ -7,7 +7,7 @@
   "manual/devMan.html": {
     "href": "manual/devMan.html",
     "title": "環境構築手順書",
-    "keywords": "環境構築手順書 1 本書について 本書では、3D都市モデルを都市育成シミュレーションゲーム\"Cities: Skylines\"にインポートするMOD（SkylinesPLATEAU。以下「本MOD」という。）の利用環境構築手順について記載しています。本MODの構成や仕様の詳細については以下も参考にしてください。 技術検証レポート 2 動作環境 本MODの動作環境は以下のとおりです。 <READMEから貼り付け> 3 利用手順手順 Cities: Skylinesを購入し使用できる環境を整えてください。 こちら から本MODをサブスクライブし、Cities: Skylinesのコンテンツマネージャーで有効化します。 4 ビルド手順 自身でソースファイルをダウンロードしビルドを行うことで、MODを生成することができます。 ソースファイルは こちら からダウンロード可能です。 （1）本MODのソリューションファイル（SkylinesPlateau.sln）をVisualStudio2019で開きます。 （2）[ビルド]メニュー＞[ソリューションのビルド]を選択し、ソリューション全体をビルドします。 （3）ビルドが正常に終了すると、bin\\Release\\SkylinesPlateauフォルダにMODファイルが生成されます。(本MODの動作に必要なライブラリも同じフォルダにコピーされます。） 5 準備物一覧 アプリケーションを利用するために以下のデータを入手します。 データ種別 機能 用途 入力方法 ① 3D都市モデル(CityGML)G空間情報センターから取得します。 https://front.geospatial.jp/ 全般 全般 格納フォルダパス指定 本MODでは、3D都市モデル標準製品仕様書（第3.4班）に準拠した3D都市モデルの地形、土地利用、道路、建築物、都市計画決定情報の形状（LOD1）と属性を活用します。 地物 地物型 属性区分 属性名 内容 共通 core:CityModel 空間属性 gml:lowerCorne、gml:upperCorner データ範囲 地形 dem:TINRelief 空間属性 dem:tin/gml:posList 形状 土地利用 luse:LandUse 空間属性 uro:orgLandUse 土地利用用途 道路 tran:Road 空間属性 tran:lod1MultiSurface、gml:posList 形状 主題 tran:function 機能 uro:width 幅員 uro:widthType 幅員区分 建築物 bldg:Building 空間属性 bldg:lod1Solid、gml:posList 形状 主題 bldg:storeysAboveGround 地上階数 bldg:measuredHeight 計測高さ bldg:usage 用途 uro:buildingID 建物ID uro:orgUsage、uro:orgUsage2 詳細用途 gml:name 名称 都市計画決定情報 urf:UrbanPlanningArea 空間属性 urf:lod1MultiSurface、gml:posList 形状 主題 urf:function 用途地域の区分"
+    "keywords": "環境構築手順書 1 本書について 本書では、3D都市モデルを都市育成シミュレーションゲーム\"Cities: Skylines\"にインポートするMOD（SkylinesPLATEAU。以下「本MOD」という。）の利用環境構築手順について記載しています。本MODの構成や仕様の詳細については以下も参考にしてください。 技術検証レポート 2 動作環境 本MODの動作環境は以下のとおりです。 <READMEから貼り付け> 3 利用手順手順 Cities: Skylinesを購入し使用できる環境を整えてください。 こちら から本MODをサブスクライブし、Cities: Skylinesのコンテンツマネージャーで有効化します。 4 ビルド手順 自身でソースファイルをダウンロードしビルドを行うことで、MODを生成することができます。 ソースファイルは こちら からダウンロード可能です。 （1）本MODのソリューションファイル（SkylinesPlateau.sln）をVisualStudio2019で開きます。 （2）[ビルド]メニュー＞[ソリューションのビルド]を選択し、ソリューション全体をビルドします。 （3）ビルドが正常に終了すると、bin\\Release\\SkylinesPlateauフォルダにMODファイルが生成されます。(本MODの動作に必要なライブラリも同じフォルダにコピーされます。） 5 準備物一覧 アプリケーションを利用するために以下のデータを入手します。 データ種別 機能 用途 入力方法 ① 3D都市モデル(CityGML)G空間情報センターから取得します。 https://front.geospatial.jp/ 全般 全般 格納フォルダパス指定 本MODでは、3D都市モデル標準製品仕様書（第3.4班）に準拠した3D都市モデルの地形、土地利用、道路、建築物、都市計画決定情報の形状（LOD1）と属性を活用します。 地物 地物型 属性区分 属性名 内容 共通 core:CityModel 空間属性 gml:lowerCorne、gml:upperCorner データ範囲 地形 dem:TINRelief 空間属性 dem:tin/gml:posList 形状 土地利用 luse:LandUse 空間属性 luse:class 土地利用用途 道路 tran:Road 空間属性 tran:lod1MultiSurface、gml:posList 形状 主題 tran:function 機能 uro:width 幅員 uro:widthType 幅員区分 建築物 bldg:Building 空間属性 bldg:lod1Solid、gml:posList 形状 主題 bldg:storeysAboveGround 地上階数 bldg:measuredHeight 計測高さ bldg:usage 用途 uro:buildingID 建物ID uro:orgUsage、uro:orgUsage2 詳細用途 gml:name 名称 都市計画決定情報 urf:UrbanPlanningArea 空間属性 urf:lod1MultiSurface、gml:posList 形状 主題 urf:function 用途地域の区分"
   },
   "manual/userMan-1-1.html": {
     "href": "manual/userMan-1-1.html",
@@ -18,6 +18,11 @@
     "href": "manual/userMan-1-2.html",
     "title": "",
     "keywords": "2. SkylinesPLATEAUの導入 2.1 SkylinesPLATEAU及び、必須MOD・アセットの導入 SkylinesPLATEAU及び必須MOD・アセットを導入するため、Steamのサイトからサブスクライブしてください。 Cities: SkylinesではMODによるUIの日本語化と高速道路（対向2車線）のアセットが必要となります。 ① SkylinesPLATEAU_必須MOD、アセット（※URLは今後変更予定） をブラウザで開きます。 ② 「+全てをサブスクライブ」ボタンをクリックします。 ※正式リリースまでは β版 を別途サブスクライブしてください 必須MOD・アセットの内容 コレクション上の表示名 内容 SkylinesPLATEAU 3D都市モデルをインポートするためのMOD Japanese Localization Mod (日本語化MOD) UIを日本語化するためのMOD NExt2 Based National Road 高速道路（対向2車線）のアセット (参考) サブスクリプションの解除 既にサブスクライブしているMOD同士の干渉回避が必要な場合やコレクション「SkylinesPLATEAU_必須MOD、アセット」を更新する必要がある場合には、サブスクリプションをすべて解除した後、必要なMOD、アセットのサブスクライブを行ってください。 ① Steamサイト又はSteamアプリ上部のユーザー名をクリックし、その後表示される「コンテンツ」をクリックします。 ② 「ワークショップのアイテム」タブから右下の「サブスクライブ中のアイテム」をクリックします。 ③ 「サブスクリプションをすべて解除」をクリックします。"
+  },
+  "manual/userMan-2-1.html": {
+    "href": "manual/userMan-2-1.html",
+    "title": "",
+    "keywords": "1. 利用できる3D都市モデル 本MODでは、3D都市モデル標準製品仕様書（第3.4版）に準拠した3D都市モデルの地形、土地利用、道路、建築物、都市計画決定情報の形状（LOD1）と属性を活用します。 地物 地物型 属性区分 属性名 内容 共通 core:CityModel 空間属性 gml:lowerCorne、gml:upperCorner データ範囲 地形 dem:TINRelief 空間属性 dem:tin/gml:posList 形状 土地利用 luse:LandUse 空間属性 luse:class 土地利用用途 道路 tran:Road 空間属性 tran:lod1MultiSurface、gml:posList 形状 主題属性 tran:function 機能 uro:width 幅員 uro:widthType 幅員区分 建築物 bldg:Building 空間属性 bldg:lod1Solid、gml:posList 形状 主題属性 bldg:storeysAboveGround 地上階数 bldg:measuredHeight 計測高さ bldg:usage 用途 uro:buildingID 建物ID uro:orgUsage、uro:orgUsage2 詳細用途 gml:name 名称 都市計画決定情報 urf:UrbanPlanningArea 空間属性 urf:lod1MultiSurface、gml:posList 形状 主題属性 urf:function 用途地域の区分"
   },
   "manual/userMan-2-10.html": {
     "href": "manual/userMan-2-10.html",
@@ -68,20 +73,5 @@
     "href": "manual/userMan-3-0.html",
     "title": "",
     "keywords": "本MODのビルド方法 1. ビルドに必要なツール Microsoft Visual Studio（以下「Visual Studio」という。開発時はVisual Studio Professional 2022を使用します。） 2. ビルド手順 ① ソースファイルをダウンロードし、展開します。 ソースファイルはこちらからダウンロード可能です。 ② SkylinesPLATEAU-mainフォルダに保存されているソリューションファイル（SkylinesPlateau.sln）をVisual Studioで開きます。 ③ソリューション構成を【Release】に、ソリューションプラットフォームを【Any CPU】に設定します。 ④ 「ビルド」メニュー＞「ソリューションのビルド」を選択し、ソリューション全体をビルドします。 ⑤ ビルドが正常に終了すると、SkylinesPlateau\\bin\\ReleaseフォルダにMODファイルが生成されます。（本MODの動作に必要なライブラリも同じフォルダにコピーされます。）"
-  },
-  "manual/userMan-3-1.html": {
-    "href": "manual/userMan-3-1.html",
-    "title": "",
-    "keywords": "1. ビルドに必要なツール Microsoft Visual Studio (以下、Visual Studioと略。 開発時は Visual Studio Professional 2022 を使用 )"
-  },
-  "manual/userMan-3-2.html": {
-    "href": "manual/userMan-3-2.html",
-    "title": "",
-    "keywords": "2. ビルド手順 ① ソースファイルをダウンロードし、展開します。 ソースファイルはこちらからダウンロード可能です。 ② SkylinesPLATEAU-mainフォルダに保存されているソリューションファイル（SkylinesPlateau.sln）をVisual Studioで開きます。 ③ソリューション構成を【Release】に、ソリューションプラットフォームを【Any CPU】に設定します。 ④ [ビルド]メニュー＞[ソリューションのビルド]を選択し、ソリューション全体をビルドします。 ⑤ ビルドが正常に終了すると、SkylinesPlateau\\bin\\ReleaseフォルダにMODファイルが生成されます。(本MODの動作に必要なライブラリも同じフォルダにコピーされます。）"
-  },
-  "manual/userMan-aboutModel.html": {
-    "href": "manual/userMan-aboutModel.html",
-    "title": "",
-    "keywords": "1. 利用できる3D都市モデル 本MODでは、3D都市モデル標準製品仕様書（第3.4版）に準拠した3D都市モデルの地形、土地利用、道路、建築物、都市計画決定情報の形状（LOD1）と属性を活用します。 地物 地物型 属性区分 属性名 内容 共通 core:CityModel 空間属性 gml:lowerCorne、gml:upperCorner データ範囲 地形 dem:TINRelief 空間属性 dem:tin/gml:posList 形状 土地利用 luse:LandUse 空間属性 uro:orgLandUse 土地利用用途 道路 tran:Road 空間属性 tran:lod1MultiSurface、gml:posList 形状 主題属性 tran:function 機能 uro:width 幅員 uro:widthType 幅員区分 建築物 bldg:Building 空間属性 bldg:lod1Solid、gml:posList 形状 主題属性 bldg:storeysAboveGround 地上階数 bldg:measuredHeight 計測高さ bldg:usage 用途 uro:buildingID 建物ID uro:orgUsage、uro:orgUsage2 詳細用途 gml:name 名称 都市計画決定情報 urf:UrbanPlanningArea 空間属性 urf:lod1MultiSurface、gml:posList 形状 主題属性 urf:function 用途地域の区分"
   }
 }

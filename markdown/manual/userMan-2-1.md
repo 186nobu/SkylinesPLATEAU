@@ -8,7 +8,7 @@
 | ---------- | --------------| --------- | --------------------------- | --------- | 
  |共通	  |core:CityModel  |空間属性  |gml:lowerCorne、gml:upperCorner  |データ範囲 |
  |地形  |dem:TINRelief		 |空間属性  |dem:tin/gml:posList							 |形状 |
- |土地利用  |luse:LandUse  |空間属性  |uro:orgLandUse								 |土地利用用途 |
+ |土地利用  |luse:LandUse  |空間属性  |luse:class								 |土地利用用途 |
  |道路  |tran:Road			  |空間属性  |tran:lod1MultiSurface、gml:posList  |形状 |
   |			 |								|主題属性		  |tran:function										 |機能 |
   |			 |								|			  |uro:width											|幅員 |

@@ -65,6 +65,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "manual/userMan-2-1.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/userMan-2-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "manual/userMan-2-10.md",
       "output": {
         ".html": {
@@ -159,36 +169,6 @@
       "output": {
         ".html": {
           "relative_path": "manual/userMan-3-0.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "manual/userMan-3-1.md",
-      "output": {
-        ".html": {
-          "relative_path": "manual/userMan-3-1.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "manual/userMan-3-2.md",
-      "output": {
-        ".html": {
-          "relative_path": "manual/userMan-3-2.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "manual/userMan-aboutModel.md",
-      "output": {
-        ".html": {
-          "relative_path": "manual/userMan-aboutModel.html"
         }
       },
       "version": ""
