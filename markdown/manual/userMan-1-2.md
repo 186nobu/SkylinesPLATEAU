@@ -24,7 +24,7 @@ Cities: SkylinesではMODによるUIの日本語化と高速道路（対向2車�
 |コレクション上の表示名	|内容|
 |-------------------|-------------------|
 |SkylinesPLATEAU	|3D都市モデルをインポートするためのMOD|
-Japanese Localization Mod <br> (日本語化MOD)	|UIを日本語化するためのMOD|
+Japanese Localization Mod <br> （日本語化MOD）	|UIを日本語化するためのMOD|
 |NExt2 Based National Road	|高速道路（対向2車線）のアセット|
 
 <br>
