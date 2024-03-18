@@ -68,12 +68,12 @@
 
 <br>
 
-- 「TIN読込最大面積」による処理イメージ
+- 「地盤レベル」による処理イメージ
 <br><img src="../resources/userMan/2-5-4-2.jpg"  style="width:500px" >
 
 <br>
 
-- 「地盤レベル」による処理イメージ
+- 「TIN読込最大面積」による処理イメージ
 <br><img src="../resources/userMan/2-5-4-3.jpg"  style="width:500px" >
 
 <br><br>
