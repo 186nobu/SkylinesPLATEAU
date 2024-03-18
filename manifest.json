@@ -435,16 +435,6 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "resources/userMan/2-3-2.png",
-      "output": {
-        "resource": {
-          "relative_path": "resources/userMan/2-3-2.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
       "source_relative_path": "resources/userMan/2-3-3.png",
       "output": {
         "resource": {
@@ -465,10 +455,40 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "resources/userMan/2-4-1.png",
+      "source_relative_path": "resources/userMan/2-5-2-1.jpg",
       "output": {
         "resource": {
-          "relative_path": "resources/userMan/2-4-1.png"
+          "relative_path": "resources/userMan/2-5-2-1.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/2-5-2-2.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/2-5-2-2.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/2-5-4-2.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/2-5-4-2.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/2-5-4-3.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/2-5-4-3.jpg"
         }
       },
       "version": ""
