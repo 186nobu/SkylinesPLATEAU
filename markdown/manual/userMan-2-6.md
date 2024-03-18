@@ -35,7 +35,7 @@
  - データがない部分は標高0ｍとなります。
  - 高速道路が存在しないエリアの場合は、「細部の調整」の項に従って、高速道路の敷設を行ってください。
 
-<br><img src="../resources/userMan/3-1-2-2.png" style="zoom: 30%;" />
+<br><img src="../resources/userMan/3-1-2-2.png" style="width:500px" />
 
 <br><br>
 
@@ -49,13 +49,13 @@ Cities: Skylinesの基本機能である「水」ツールを使用して、海�
 
 ③ その後すぐに、「海水面高さ」に「40（m）」（※1）程度の数値を入力し、「水位を海水面に戻す」ボタンをクリックします。 （この操作により、水位が安定するまでの時間を大幅に短縮することができます。）
 
-<br><img src="../resources/userMan/3-1-3-1-1.png" style="zoom: 25%;" /><br><br>
+<br><img src="../resources/userMan/3-1-3-1-1.png" style="width:500px" ><br><br>
 
 ④ 水位が安定したら「水」ツールボタンをクリックして「水」ツールを終了し、「一時停止」ボタンをクリックして時間の進行を止めます。
 
 ※1 Cities: Skylinesの水位のデフォルト値である40ｍに適合するようSkylinesPLATEAUでは地形読込の際に標高の補正を行っています。
 
-<br><img src="../resources/userMan/3-1-3-1-2.png" style="zoom: 25%;" /><br><br>
+<br><img src="../resources/userMan/3-1-3-1-2.png" style="width:500px" ><br><br>
 
 <br><br>
 
@@ -67,6 +67,10 @@ Cities: Skylinesの基本機能である「水」ツールを使用して、海�
 - 最低一つの地域内へ向かう高速道路がつながっている。
 - 最低一つの地域外へ向かう高速道路がつながっている。
 
+<img src="../resources/userMan/3-1-4-1.png" style="zoom: 30%;" /><br>
+
+<br>
+
 このため、上記の必須事項をクリアするための操作を含めた細部の調整を行ってください。
 
 　6.4.1 高速道路を敷設（3D都市モデルの範囲に高速道路が存在しない場合のみ）
@@ -75,9 +79,7 @@ Cities: Skylinesの基本機能である「水」ツールを使用して、海�
 
 　6.4.3 水際等の地形の調整
 
-<br><img src="../resources/userMan/3-1-4-1.png" style="zoom: 30%;" />
-
-<br><br>
+<br>
 
 #### 6.4.1 高速道路の敷設（3D都市モデルの範囲に高速道路が存在しない場合のみ）
 

@@ -21,7 +21,7 @@ Cities: Skylinesの起動のため、「Paradoxランチャー」を起動して
 
 ② 「▶プレイ」ボタンをクリックします。
 
-<br><img src="../resources/userMan/2-1-1-2.png" style="zoom:22.5%;" />
+<br><img src="../resources/userMan/2-4-1-2.jpg" style="width:500px" >
 
 <br><br>
 
@@ -31,7 +31,9 @@ ParadoxランチャーからCities: Skylinesを起動してください。
 
 ① ランチャー画面左欄で「Cities: Skylines」をクリックします。
 
-② ランチャー画面右上の言語選択で「日本語」を選択します。（他言語が表示されている場合のみ） 「プレイ」ボタンをクリックします。
+② ランチャー画面右上の言語選択で「日本語」を選択します。（他言語が表示されている場合のみ）
+
+ ③ 「プレイ」ボタンをクリックします。
 
 <br><img src="../resources/userMan/2-1-2-1.png" style="zoom: 23%;" />
 
@@ -55,7 +57,7 @@ ParadoxランチャーからCities: Skylinesを起動してください。
 
 ① メインメニューで「コンテンツマネージャー」を選択し、コンテマネージャーを起動します。
 
-<br><img src="../resources/userMan/2-2-1.png" style="zoom: 33%;" />
+<br><img src="../resources/userMan/2-2-1.png" style="width:500px" >
 
 <br><br>
 
@@ -63,7 +65,7 @@ ParadoxランチャーからCities: Skylinesを起動してください。
 
 ③ 「オン/オフ」ボタンをクリックし、ハードモードを除く全てのMODを有効化します。 （オンの状態とします）
 
-<br><img src="../resources/userMan/2-2-2.png" style="zoom: 25%;" />
+<br><img src="../resources/userMan/2-4-4-3.jpg" style="width:500px" >
 
 <br><br>
 
@@ -71,7 +73,9 @@ ParadoxランチャーからCities: Skylinesを起動してください。
 
 ⑤ 「National Road」を有効化します。
 
-<br>
+<br><img src="../resources/userMan/2-4-4-5.jpg" style="width:500px" >
+
+<br><br>
 
 ### 4.5 参考資料（有効化するMOD、アセット一覧）
 

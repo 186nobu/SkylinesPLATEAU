@@ -455,6 +455,36 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "resources/userMan/2-4-1-2.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/2-4-1-2.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/2-4-4-3.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/2-4-4-3.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/2-4-4-5.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/2-4-4-5.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "resources/userMan/2-5-2-1.jpg",
       "output": {
         "resource": {

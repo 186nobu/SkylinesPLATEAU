@@ -6,21 +6,21 @@
 
 ① G空間情報センターの3D都市モデル（Project PLATEAU）ポータルサイト（ https://www.geospatial.jp/ckan/dataset/plateau ）をブラウザで開きます。
 
-<img src="../resources/userMan/2-2-1-1.jpg" style="width:500px" />
+<img src="../resources/userMan/2-2-1-1.jpg" style="width:500px" >
 <br>
 <br>
 <br>
 
 ② リンクから任意の都市のデータセットページに進み、データ欄の「CityGML」をクリックします。
 
-<img src="../resources/userMan/2-2-1-2.jpg" style="width:500px" />
+<img src="../resources/userMan/2-2-1-2.jpg" style="width:500px" >
 <br>
 <br>
 <br>
 
 ③ CityGMLのページで「ダウンロード」ボタンをクリックしてファイルをダウンロードし、Zipファイルを展開します（任意の場所に保存します）。
 
-<img src="../resources/userMan/2-2-1-3.jpg" style="width:500px"/>
+<img src="../resources/userMan/2-2-1-3.jpg" style="width:500px">
 <br>
 <br>
 <br>

@@ -8,7 +8,7 @@
 
 ② ウィンドウ左側の「SkylinesPLATEAU」を選択します。
 
-<br><img src="../resources/userMan/2-3-1.png" style="zoom: 25%;" />
+<br><img src="../resources/userMan/2-3-1.png" style="zoom: 25%;" >
 
 <br><br>
 
@@ -16,14 +16,14 @@
 
 ① 3D都市モデルフォルダ項目の右側にある、ファイルマークを選択します。
 
-<br><img src="../resources/userMan/2-5-2-1.jpg" style="width:500px" />
+<br><img src="../resources/userMan/2-5-2-1.jpg" style="width:500px" >
 
 <br><br>
 
 ② 「フォルダを選択してください」ウィンドウで、対象都市のCityGMLフォルダ（Zipファイルを展開済みのもの）を参照し、選択します 。
 
 - 選択するフォルダ（サンプルデータの場合）
-<br><img src="../resources/userMan/2-5-2-2.jpg"  style="width:500px" />
+<br><img src="../resources/userMan/2-5-2-2.jpg"  style="width:500px" >
 
 
 
@@ -35,7 +35,7 @@
 
 ※1 [「3. 中心座標の確認」](userMan-2-3.md)の項を参照してください。（サンプルデータを使用時は36.152800,140.520300を入力）
 
-<br><img src="../resources/userMan/2-3-3.png"  style="width:500px" />
+<br><img src="../resources/userMan/2-3-3.png"  style="width:500px" >
 
 <br><br>
 
@@ -43,7 +43,7 @@
 
 海面高さ等の変更を行う場合は各種設定項目に任意の数値を入力してください。
 
-<br><img src="../resources/userMan/2-3-4.png"  style="width:500px" />
+<br><img src="../resources/userMan/2-3-4.png"  style="width:500px" >
 
 <br><br>
 
@@ -60,11 +60,11 @@
 <br>
 
 - 「TIN読込最大面積」による処理イメージ
-<br><img src="../resources/userMan/2-5-4-2.jpg"  style="width:500px" />
+<br><img src="../resources/userMan/2-5-4-2.jpg"  style="width:500px" >
 
 <br>
 
 - 「地盤レベル」による調整イメージ
-<br><img src="../resources/userMan/2-5-4-3.jpg"  style="width:500px" />
+<br><img src="../resources/userMan/2-5-4-3.jpg"  style="width:500px" >
 
 <br><br>
