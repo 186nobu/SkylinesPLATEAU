@@ -565,6 +565,96 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "resources/userMan/2024-03-18_17h53_07.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/2024-03-18_17h53_07.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/2024-03-18_17h53_21.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/2024-03-18_17h53_21.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/2024-03-18_17h53_211-2.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/2024-03-18_17h53_211-2.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/2024-03-18_17h53_211.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/2024-03-18_17h53_211.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/2024-03-18_17h54_22.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/2024-03-18_17h54_22.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/2024-03-18_17h56_52-2.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/2024-03-18_17h56_52-2.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/2024-03-18_17h56_52.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/2024-03-18_17h56_52.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/2024-03-18_18h03_57.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/2024-03-18_18h03_57.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/2024-03-18_18h04_30.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/2024-03-18_18h04_30.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "resources/userMan/3-1-1-1.png",
       "output": {
         "resource": {

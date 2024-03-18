@@ -6,23 +6,32 @@
 
 ① メインメニューで「オプション」をクリックし、設定ウィンドウを表示します。
 
+<img src="../resources/userMan/2024-03-18_17h53_07.jpg" style="width:500px" >
+
+<br><br>
+
 ② ウィンドウ左側の「SkylinesPLATEAU」を選択します。
 
-<br><img src="../resources/userMan/2-3-1.png" style="zoom: 25%;" >
+<img src="../resources/userMan/2024-03-18_17h53_21.jpg" style="width:500px" >
 
 <br><br>
 
 ### 5.2 3D都市モデルフォルダの選択
 
-① 3D都市モデルフォルダ項目の右側にある、ファイルマークを選択します。
+① 3D都市モデルフォルダ項目の右側にある、フォルダマークを選択します。
 
-<br><img src="../resources/userMan/2-5-2-1.jpg" style="width:500px" >
+<img src="../resources/userMan/2024-03-18_17h53_211-2.jpg" style="width:500px" >
 
 <br><br>
 
 ② 「フォルダを選択してください」ウィンドウで、対象都市のCityGMLフォルダ（Zipファイルを展開済みのもの）を参照し、選択します 。
 
-- 選択するフォルダ（サンプルデータの場合）
+<img src="../resources/userMan/2024-03-18_17h56_52-2.jpg" style="width:500px" >
+
+<br>
+<br>
+
+※ 選択するフォルダ（サンプルデータの場合）
 <br><img src="../resources/userMan/2-5-2-2.jpg"  style="width:500px" >
 
 
@@ -35,7 +44,7 @@
 
 ※1 [「3. 中心座標の確認」](userMan-2-3.md)の項を参照してください。（サンプルデータを使用時は36.152800,140.520300を入力）
 
-<br><img src="../resources/userMan/2-3-3.png"  style="width:500px" >
+<br><img src="../resources/userMan/2024-03-18_18h03_57.jpg"  style="width:500px" >
 
 <br><br>
 
@@ -43,7 +52,7 @@
 
 海面高さ等の変更を行う場合は各種設定項目に任意の数値を入力してください。
 
-<br><img src="../resources/userMan/2-3-4.png"  style="width:500px" >
+<br><img src="../resources/userMan/2024-03-18_18h04_30.jpg"  style="width:500px" >
 
 <br><br>
 
@@ -64,7 +73,7 @@
 
 <br>
 
-- 「地盤レベル」による調整イメージ
+- 「地盤レベル」による処理イメージ
 <br><img src="../resources/userMan/2-5-4-3.jpg"  style="width:500px" >
 
 <br><br>

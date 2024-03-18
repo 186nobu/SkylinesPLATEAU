@@ -12,7 +12,7 @@ Cities: SkylinesではMODによるUIの日本語化と高速道路（対向2車�
 
 ② 「+全てをサブスクライブ」ボタンをクリックします。
 
-#### ※正式リリースまでは [β版](https://steamcommunity.com/sharedfiles/filedetails/?id=3040941129) を別途サブスクライブしてください
+#### ※正式リリースまでは [β版](https://steamcommunity.com/sharedfiles/filedetails/?id=3114277872) を別途サブスクライブしてください
 
 <!--
 「+全てをサブスクライブ」ボタン<br>  -->
