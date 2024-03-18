@@ -49,11 +49,13 @@ Cities: Skylinesの基本機能である「水」ツールを使用して、海�
 
 ③ その後すぐに、「海水面高さ」に「40（m）」（※1）程度の数値を入力し、「水位を海水面に戻す」ボタンをクリックします。 （この操作により、水位が安定するまでの時間を大幅に短縮することができます。）
 
+<br><img src="../resources/userMan/3-1-3-1-1.png" style="zoom: 25%;" /><br><br>
+
 ④ 水位が安定したら「水」ツールボタンをクリックして「水」ツールを終了し、「一時停止」ボタンをクリックして時間の進行を止めます。
 
 ※1 Cities: Skylinesの水位のデフォルト値である40ｍに適合するようSkylinesPLATEAUでは地形読込の際に標高の補正を行っています。
 
-<br><img src="../resources/userMan/3-1-3-1.png" style="zoom: 25%;" />
+<br><img src="../resources/userMan/3-1-3-1-2.png" style="zoom: 25%;" /><br><br>
 
 <br><br>
 
