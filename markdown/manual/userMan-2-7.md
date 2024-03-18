@@ -52,7 +52,8 @@
 
 　④ 同様の操作で「上下水道」ツールの「ポンプ場」、「下水処理施設」、「水道管」を配置します。
 
-<br><img src="../resources/userMan/3-2-3-2.png" style="zoom: 25%;" />
+<br><img src="../resources/userMan/3-2-3-2-1.png" style="zoom: 25%;" /><br>
+<br><img src="../resources/userMan/3-2-3-2-2.png" style="zoom: 25%;" />
 
 <br><br>
 
