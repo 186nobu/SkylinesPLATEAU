@@ -1,5 +1,5 @@
 {
-  "source_base_path": "D:/_2023/2023_PLATEAU/OSS/186nobu/SkylinesPLATEAU/markdown",
+  "source_base_path": "D:/_2023/2023_PLATEAU/OSS/markdown",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -16,16 +16,6 @@
       "output": {
         ".html": {
           "relative_path": "index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "manual/devMan.md",
-      "output": {
-        ".html": {
-          "relative_path": "manual/devMan.html"
         }
       },
       "version": ""
@@ -179,6 +169,16 @@
       "output": {
         "resource": {
           "relative_path": "resources/index2.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/index3.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/index3.jpg"
         }
       },
       "version": ""
@@ -649,6 +649,36 @@
       "output": {
         "resource": {
           "relative_path": "resources/userMan/2024-03-18_18h04_30.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/2024-03-26_21h29_26.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/2024-03-26_21h29_26.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/2024-03-26_21h53_31.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/2024-03-26_21h53_31.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/2024-03-26_21h53_38.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/2024-03-26_21h53_38.jpg"
         }
       },
       "version": ""

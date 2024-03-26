@@ -4,11 +4,6 @@
     "title": "Cities: Skylines PLATEAU MOD",
     "keywords": "Cities: Skylines PLATEAU MOD PLATEAUの3D都市モデルを都市育成シミュレーションゲーム\"Cities: Skylines\"にインポートするMOD（SkylinesPLATEAU）です。（ Cities: Skylines II には対応していません。） オープンデータである3D都市モデルをゲーム内に取り込み、実際の都市を再現することで、ビジュアライゼーションツールやまちづくりシミュレータとして、まちづくりの計画検討やワークショップ、教育の現場等で活用することができます。"
   },
-  "manual/devMan.html": {
-    "href": "manual/devMan.html",
-    "title": "環境構築手順書",
-    "keywords": "環境構築手順書 1 本書について 本書では、3D都市モデルを都市育成シミュレーションゲーム\"Cities: Skylines\"にインポートするMOD（SkylinesPLATEAU。以下「本MOD」という。）の利用環境構築手順について記載しています。本MODの構成や仕様の詳細については以下も参考にしてください。 技術検証レポート 2 動作環境 本MODの動作環境は以下のとおりです。 <READMEから貼り付け> 3 利用手順手順 Cities: Skylinesを購入し使用できる環境を整えてください。 こちら から本MODをサブスクライブし、Cities: Skylinesのコンテンツマネージャーで有効化します。 4 ビルド手順 自身でソースファイルをダウンロードしビルドを行うことで、MODを生成することができます。 ソースファイルは こちら からダウンロード可能です。 （1）本MODのソリューションファイル（SkylinesPlateau.sln）をVisualStudio2019で開きます。 （2）[ビルド]メニュー＞[ソリューションのビルド]を選択し、ソリューション全体をビルドします。 （3）ビルドが正常に終了すると、bin\\Release\\SkylinesPlateauフォルダにMODファイルが生成されます。（本MODの動作に必要なライブラリも同じフォルダにコピーされます。） 5 準備物一覧 アプリケーションを利用するために以下のデータを入手します。 データ種別 機能 用途 入力方法 ① 3D都市モデル（CityGML）G空間情報センターから取得します。 https://front.geospatial.jp/ 全般 全般 格納フォルダパス指定 本MODでは、3D都市モデル標準製品仕様書（第3.4班）に準拠した3D都市モデルの地形、土地利用、道路、建築物、都市計画決定情報の形状（LOD1）と属性を活用します。 地物 地物型 属性区分 属性名 内容 共通 core:CityModel 空間属性 gml:lowerCorne、gml:upperCorner データ範囲 地形 dem:TINRelief 空間属性 dem:tin/gml:posList 形状 土地利用 luse:LandUse 空間属性 luse:class 土地利用用途 道路 tran:Road 空間属性 tran:lod1MultiSurface、gml:posList 形状 主題 tran:function 機能 uro:width 幅員 uro:widthType 幅員区分 建築物 bldg:Building 空間属性 bldg:lod1Solid、gml:posList 形状 主題 bldg:storeysAboveGround 地上階数 bldg:measuredHeight 計測高さ bldg:usage 用途 uro:buildingID 建物ID uro:orgUsage、uro:orgUsage2 詳細用途 gml:name 名称 都市計画決定情報 urf:UrbanPlanningArea 空間属性 urf:lod1MultiSurface、gml:posList 形状 主題 urf:function 用途地域の区分"
-  },
   "manual/userMan-1-1.html": {
     "href": "manual/userMan-1-1.html",
     "title": "",
@@ -22,7 +17,7 @@
   "manual/userMan-2-1.html": {
     "href": "manual/userMan-2-1.html",
     "title": "",
-    "keywords": "1. 利用できる3D都市モデル 本MODでは、3D都市モデル標準製品仕様書（第3.4版）に準拠した3D都市モデルの地形、土地利用、道路、建築物、都市計画決定情報の形状（LOD1）と属性を活用します。 地物 地物型 属性区分 属性名 内容 共通 core:CityModel 空間属性 gml:lowerCorne、gml:upperCorner データ範囲 地形 dem:TINRelief 空間属性 dem:tin/gml:posList 形状 土地利用 luse:LandUse 空間属性 luse:class 土地利用用途 道路 tran:Road 空間属性 tran:lod1MultiSurface、gml:posList 形状 主題属性 tran:function 機能 uro:width 幅員 uro:widthType 幅員区分 建築物 bldg:Building 空間属性 bldg:lod1Solid、gml:posList 形状 主題属性 bldg:storeysAboveGround 地上階数 bldg:measuredHeight 計測高さ bldg:usage 用途 uro:buildingID 建物ID uro:orgUsage、uro:orgUsage2 詳細用途 gml:name 名称 都市計画決定情報 urf:UrbanPlanningArea 空間属性 urf:lod1MultiSurface、gml:posList 形状 主題属性 urf:function 用途地域の区分"
+    "keywords": "1. 利用できる3D都市モデル 本MODでは、3D都市モデル標準製品仕様書（2.3版、第3.4版）に準拠した3D都市モデルの地形、土地利用、道路、建築物、都市計画決定情報の形状（LOD1）と属性を活用します。 地物 地物型 属性区分 属性名 内容 共通 core:CityModel 空間属性 gml:lowerCorne、gml:upperCorner データ範囲 地形 dem:TINRelief 空間属性 dem:tin/gml:posList 形状 土地利用 luse:LandUse 空間属性 luse:class 土地利用用途 道路 tran:Road 空間属性 tran:lod1MultiSurface、gml:posList 形状 主題属性 tran:function 機能 uro:width 幅員 uro:widthType 幅員区分 建築物 bldg:Building 空間属性 bldg:lod1Solid、gml:posList 形状 主題属性 bldg:storeysAboveGround 地上階数 bldg:measuredHeight 計測高さ bldg:usage 用途 uro:buildingID 建物ID uro:orgUsage、uro:orgUsage2 詳細用途 gml:name 名称 都市計画決定情報 urf:UrbanPlanningArea 空間属性 urf:lod1MultiSurface、gml:posList 形状 主題属性 urf:function 用途地域の区分"
   },
   "manual/userMan-2-10.html": {
     "href": "manual/userMan-2-10.html",
@@ -32,12 +27,12 @@
   "manual/userMan-2-2.html": {
     "href": "manual/userMan-2-2.html",
     "title": "",
-    "keywords": "2. 3D都市モデルのダウンロード ゲーム上に再現したい都市の3D都市モデルをダウンロード（※1）し、任意（デスクトップ等）の場所に保存してください。 ① G空間情報センターの3D都市モデル（Project PLATEAU）ポータルサイト（ https://www.geospatial.jp/ckan/dataset/plateau ）をブラウザで開きます。 ② リンクから任意の都市のデータセットページに進み、データ欄の「CityGML」をクリックします。 ③ CityGMLのページで「ダウンロード」ボタンをクリックしてファイルをダウンロードし、Zipファイルを展開します（任意の場所に保存します）。 ※1 サンプルデータ（茨城県鉾田市の3D都市モデルの一部データ）を使用する場合は https://github.com/Project-PLATEAU/SkylinesPLATEAU/blob/main/SampleData/08234_hokota-shi_2020_citygml_4_op_sample_area.zip をダウンロードします。"
+    "keywords": "2. 3D都市モデルのダウンロード ゲーム上に再現したい都市の3D都市モデルをダウンロード（※1）し、任意（デスクトップ等）の場所に保存してください。 ① G空間情報センターの3D都市モデル（Project PLATEAU）ポータルサイト（ https://www.geospatial.jp/ckan/dataset/plateau ）をブラウザで開きます。 ② リンクから任意の都市のデータセットページに進み、データ欄の「CityGML」をクリックします。 ③ CityGMLのページで「ダウンロード」ボタンをクリックしてファイルをダウンロードし、Zipファイルを展開します（任意の場所に保存します）。 ※1 サンプルデータ（茨城県鉾田市の3D都市モデルの一部データ）を使用する場合は https://github.com/Project-PLATEAU/SkylinesPLATEAU/blob/main/SampleData/08234_hokota-shi_2020_citygml_4_op_sample_area.zip をダウンロードします。 参考 展開したフォルダ内のファイル数が多い場合、MODでの読み込み処理に時間がかかることがあります。 このため、不要なエリアのファイルを別ののフォルダに移動して複数回に分けて読み込むなどの対応を行ってください。 各地物のフォルダ内のファイル名は地域メッシュ番号と対応しているため、読み込み範囲の地域メッシュ番号を確認して地域メッシュ番号と同じファイル名のファイルを残し、その他のファイルを別のフォルダに移動します。 ① 地理院地図（ http://maps.gsi.go.jp/ ）等で読み込みたい範囲の地域メッシュ番号を確認します。 地理院地図をブラウザで表示します 設定をクリックします グリッド表示をクリックします 地域メッシュをONにします 第２次地域区画（6桁）また第３次地域区画（8桁）の地域メッシュ番号を確認してください ② 読み込みたい範囲以外のファイルを別のフォルダに移動します。 3D都市モデルフォルダ\\udx 内に各地物のフォルダがあり、その中に地域メッシュごとのファイルが保存されています。 ファイル名の先頭が地域メッシュ番号になっています。 読み込み範囲のファイルを残し、その他のファイルを別のフォルダに移動してください。 鉾田市、luse（土地利用）フォルダの例"
   },
   "manual/userMan-2-3.html": {
     "href": "manual/userMan-2-3.html",
     "title": "",
-    "keywords": "3. 中心座標の確認 3D都市モデルをインポートする際に必要な読込み位置の中心座標を確認し、値をコピーしてください。 ① 3D都市モデルの読込みを行うエリアの中心座標をPLATEAU VIEW （※1）やGoogleマップ（※2）、地理院地図（※3）で確認し、コピーします。 ※1 PLATEAU VIEW（ https://plateauview.mlit.go.jp/ ） 緯度経度の取得方法 マウスカーソルの位置の緯度経度を取得できます （固定されないので、確認時にマウスを動かさないように注意が必要です） 特徴 3D都市モデルの有無やモデル化された建物の分布を確認しながら探索できます ※2 Google map（ https://www.google.com/maps?authuser=0 ） 緯度経度の取得方法 クリックした位置の緯度経度を取得できます 特徴 住所、地名、施設名、カテゴリ等で検索可能です ※3 地理院地図（ http://maps.gsi.go.jp/ ） 緯度経度の取得方法 画面の中心点の緯度経度が取得できます 特徴 住所、地名、施設名等で検索可能です"
+    "keywords": "3. 中心座標の確認 3D都市モデルをインポートする際に必要な読込み位置の中心点の経緯度を確認し、値をコピーしてください。 緯度経度には十進経緯度（１０進法）と度分秒（６０進法）での表記方法があり、SkylinesPLATEAUでは十進経緯度（１０進法）を中心座標として使用します。 以下の方法のいずれでも十進経緯度（１０進法）で表示されているため、コピーした値をそのままSkylinesPLATEAUの中心座標として使用できます。 ① 3D都市モデルの読込みを行うエリアの中心座標をPLATEAU VIEW （※1）やGoogleマップ（※2）、地理院地図（※3）で確認し、コピーします。 ※1 PLATEAU VIEW（ https://plateauview.mlit.go.jp/ ） 緯度経度の取得方法 マウスカーソルの位置の緯度経度を取得できます （固定されないので、確認時にマウスを動かさないように注意が必要です） 特徴 3D都市モデルの有無やモデル化された建物の分布を確認しながら探索できます ※2 Google map（ https://www.google.com/maps?authuser=0 ） 緯度経度の取得方法 クリックした位置の緯度経度を取得できます 特徴 住所、地名、施設名、カテゴリ等で検索可能です ※3 地理院地図（ http://maps.gsi.go.jp/ ） 緯度経度の取得方法 画面の中心点の緯度経度が取得できます 特徴 住所、地名、施設名等で検索可能です"
   },
   "manual/userMan-2-4.html": {
     "href": "manual/userMan-2-4.html",
@@ -47,7 +42,7 @@
   "manual/userMan-2-5.html": {
     "href": "manual/userMan-2-5.html",
     "title": "",
-    "keywords": "5. 3D都市モデル読込み時の各種設定 5.1 設定ウィンドウの表示 ① メインメニューで「オプション」をクリックし、設定ウィンドウを表示します。 ② ウィンドウ左側の「SkylinesPLATEAU」を選択します。 5.2 3D都市モデルフォルダの選択 ① 3D都市モデルフォルダ項目の右側にある、フォルダマークを選択します。 ② 「フォルダを選択してください」ウィンドウで、対象都市のCityGMLフォルダ（Zipファイルを展開済みのもの）を参照し、選択します 。 ※ 選択するフォルダ（サンプルデータの場合） 5.3 中心座標入力、座標系番号選択 対象エリアの中心座標（※1）をカンマ区切り（小数点以下6桁）で入力し、読込みを行うエリアが属する都道府県から座標系系番号を選択してください。 ※1 「3. 中心座標の確認」の項を参照してください。（サンプルデータを使用時は36.152800,140.520300を入力） 5.4 その他項目の入力 海面高さ等の変更を行う場合は各種設定項目に任意の数値を入力してください。 設定項目と内容 設定項目 内容・役割 初期値 地盤レベル 地形データの標高をどれだけ高くするか（かさ上げするか）を指定します。 ゲーム内の海面高さを考慮した値を設定してください。 40 水面オフセット 土地利用用途の水面部分をどれだけ低くするかを指定します。 5 TIN読込最大面積 設定した値を超える大きさのTIN部分を高さ0ｍとして読込みます。 湖沼部等の判定に使用します。 20 読み込み範囲 3D都市モデルを読込む範囲をkm単位で設定してください。 6 三角道路ポリゴン除外面積 狭小な道路ポリゴンを除外するための閾値を指定します。 道路ポリゴンの形状が三角形で、指定された面積より小さい場合に読込みの対象外とします。 10 「地盤レベル」による処理イメージ 「TIN読込最大面積」による処理イメージ"
+    "keywords": "5. 3D都市モデル読込み時の各種設定 5.1 設定ウィンドウの表示 ① メインメニューで「オプション」をクリックし、設定ウィンドウを表示します。 ② ウィンドウ左側の「SkylinesPLATEAU」を選択します。 5.2 3D都市モデルフォルダの選択 ① 3D都市モデルフォルダ項目の右側にある、フォルダマークを選択します。 ② 「フォルダを選択してください」ウィンドウで、対象都市のCityGMLフォルダ（Zipファイルを展開済みのもの）を参照し、選択します 。 ※ 選択するフォルダ（サンプルデータの場合） 5.3 中心座標入力、座標系番号選択 対象エリアの中心座標（※1）として緯度経度（十進経緯度）をカンマ区切り（小数点以下6桁）で入力し、読込みを行うエリアが属する都道府県から座標系系番号を選択してください。 ※1 「3. 中心座標の確認」の項を参照してください。（サンプルデータを使用時は36.152800,140.520300を入力） 5.4 その他項目の入力 海面高さ等の変更を行う場合は各種設定項目に任意の数値を入力してください。 設定項目と内容 設定項目 内容・役割 初期値 地盤レベル 地形データの標高をどれだけ高くするか（かさ上げするか）を指定します。 ゲーム内の海面高さを考慮した値を設定してください。 40 水面オフセット 土地利用用途の水面部分をどれだけ低くするかを指定します。 5 TIN読込最大面積 設定した値を超える大きさのTIN部分を高さ0ｍとして読込みます。 湖沼部等の判定に使用します。 20 読み込み範囲 3D都市モデルを読込む範囲をkm単位で設定してください。 6 三角道路ポリゴン除外面積 狭小な道路ポリゴンを除外するための閾値を指定します。 道路ポリゴンの形状が三角形で、指定された面積より小さい場合に読込みの対象外とします。 10 「地盤レベル」による処理イメージ 「TIN読込最大面積」による処理イメージ"
   },
   "manual/userMan-2-6.html": {
     "href": "manual/userMan-2-6.html",
